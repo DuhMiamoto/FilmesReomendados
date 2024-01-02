@@ -1,5 +1,4 @@
 import streamlit as st
-import pandas
 import pickle
 import requests
 import dotenv
